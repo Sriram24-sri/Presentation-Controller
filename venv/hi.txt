@@ -1,1 +1,1 @@
-
+open pycharm and insttall necessary packages in the virtual environment
